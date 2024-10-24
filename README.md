@@ -1,2 +1,4 @@
-# javascript-calculator
-A CodePen pen. The solution to one of the credit projects from FreeCodeCamp "Front End Development Libraries"
+# js-calculator-02
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/heEXDe/pen/RwXgaZG](https://codepen.io/heEXDe/pen/RwXgaZG).
+
